@@ -8,10 +8,12 @@ table {
 
 td {
     background-color: aliceblue;
+    border: black 1px solid;
 }
 
 th {
     background-color: darkgray;
+    border: black 1px solid;
 }
 
 h2 {
